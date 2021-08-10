@@ -1,5 +1,6 @@
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="script.js"></script>
 
 # Teknologi 1, Kea efterår 2021
 <div style="text-align:right"><small>
