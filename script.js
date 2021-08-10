@@ -1,5 +1,5 @@
 $().ready(function() {
-
+	$(".page-header").attr('style', 'display:none')
 	$("h1:first").css("display", "none");
 	//$("h1:first").html("./missing semester");
 	$(".page-header a:first").hide()
