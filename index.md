@@ -12,53 +12,44 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 
 | Dat21v2 | Dat21v1 | Emne | 
 |:---:|:---:| --- |
-||| [Introduktion til Teknologifaget og Computer Arkitektur](1.md)|
-||| [Operativsystemer og Unix File System](2.md)|
-||| [Obligatorisk opgave (Operativsstemer - Webserver)](3.md)|
-||| [Peer review af Obligatorisk opgave](4.md)|
-||| [Client / Server arkitektur](5.md)|
-||| [Database Management Systems, DBMS](6.md)|
-||| []()|
-||| [Cloud Computing Basics & Amazon Web Services](8.md)|
-||| <small><i>Påskeferie</i></small>|
-||| [Amazon Web Services - WAR & MySQL Deployment](9.md)|
-||| [Miniprojekt](11.md) |
-||| [PaaS - Elastic Beanstalk](10.md)|
-||| [PaaS - Elastic Beanstalk](10.md)|
+||| [Introduktion til Teknologifaget og Commandline Interface](1.md)|
+||| [Databaser](2.md)|
+||| [](3.md)|
+||| [](4.md)|
+||| [](5.md)|
+||| [](6.md)|
+||| [](7.md)|
+||| [](8.md)|
+||| [](9.md)|
+||| [](10.md) |
+||| [](11.md)|
+||| [](12.md)|
+||| [Eksamensprojekt](13.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
-||| [Eksamensprojekt](17.md)|
 
-<div style='text-align:right'><i><small>&copy; clbo@kea.dk, efterår 2021</small></i></div>
 
 <script>  
-
-$().ready(function() {
-	$("h1:first").css("display", "none");
-});
-
-
 var dates = [
-	{dat21v2: '3/2', dat21v1: '5/2'},
-	{dat21v2: '10/2', dat21v1:'12/2' },
-	{dat21v2: '17/2', dat21v1:'19/2' },
-	{dat21v2: '24/2', dat21v1:'26/2' 	},
-	{dat21v2: '3/3', dat21v1:	'5/3' 	 },
-	{dat21v2: '10/3', dat21v1:'12/3' 	 },
-	{dat21v2: '17/3', dat21v1:'19/3' 	 },
-	{dat21v2: '24/3', dat21v1:'26/3' },
+	{dat21v2: '25/8', dat21v1: '27/8'},
+	{dat21v2: '1/9', dat21v1:'3/9' },
+	{dat21v2: '8/9 (teams)', dat21v1:'10/9' },
+	{dat21v2: '15/9', dat21v1:'17/9' 	},
+	{dat21v2: '22/9 (teams)', dat21v1:'24/9'},
+	{dat21v2: '29/9', dat21v1:'1/10'  },
+	{dat21v2: '6/10 (teams)', dat21v1:'8/10'  },
+	{dat21v2: '13/10', dat21v1:'15/10' },
 
-	{dat21v2:' - ', dat21v1:	' - ' },
+	{dat21v2:'20/10 (teams)', dat21v1:'22/10' },
 
-	{dat21v2:'7/4', dat21v1:'9/4'},
-	{dat21v2:'14/4', dat21v1:	'16/4'},
-	{dat21v2:'21/4', dat21v1:	'23/4'},
-	{dat21v2:'28/4', dat21v1:	'St.bededag'},
-	{dat21v2:'5/5', dat21v1:	'7/5'},
-	{dat21v2:'12/5', dat21v1:	'Kr.Him' },
-	{dat21v2:'19/5', dat21v1:	'21/5'},
-	{dat21v2:'26/5', dat21v1:	'28/5'	 },
+	{dat21v2:'27/10', dat21v1:'29/10'},
+	{dat21v2:'10/11', dat21v1:'5/11'},
+	{dat21v2:'17/11 (teams)', dat21v1:'12/11'},
+	{dat21v2:'24/11', dat21v1:'19/11'},
+	{dat21v2:'1/12 (teams)', dat21v1:'26/11'},
+	{dat21v2:'8/12', dat21v1:'3/12' },
+	{dat21v2:'15/12', dat21v1:'10/12'},
 
 ]
 var table = document.getElementsByTagName("table");  
