@@ -29,6 +29,8 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
 
+<br><br>
+<i>* undervisning på Teams</i>
 
 <script>  
 var dates = [
