@@ -24,7 +24,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 ||| [Client / Server Arkitektur](10.md) |
 ||| [Miniprojekt](11.md)|
 ||| [Miniprojekt](12.md)|
-||| [Eksamensprojekt](13.md)|
+||| [Recap](13.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
