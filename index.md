@@ -31,6 +31,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 
 <br><br>
 <div style='text-align:right'><i><small>* undervisning på Teams</small></i></div>
+<div style='text-align:right'><i><small>* ingen undervisning, starten på jeres eksamensprojekt</small></i></div>
 
 <script>  
 var dates = [
@@ -46,12 +47,12 @@ var dates = [
 	{dat21v2:'20/10*', dat21v1:'22/10' },
 
 	{dat21v2:'27/10', dat21v1:'29/10'},
-	{dat21v2:'10/11', dat21v1:'05/11'},
-	{dat21v2:'17/11*', dat21v1:'12/11'},
-	{dat21v2:'24/11', dat21v1:'19/11'},
-	{dat21v2:'01/12*', dat21v1:'26/11'},
-	{dat21v2:'08/12', dat21v1:'03/12' },
-	{dat21v2:'15/12', dat21v1:'10/12'},
+	{dat21v2:'03/11**', dat21v1:'05/11'},
+	{dat21v2:'10/11', dat21v1:'12/11'},
+	{dat21v2:'17/11*', dat21v1:'19/11'},
+	{dat21v2:'24/11', dat21v1:'26/11'},
+	{dat21v2:'01/12*', dat21v1:'03/12' },
+	{dat21v2:'08/12', dat21v1:'10/12'},
 
 ]
 var table = document.getElementsByTagName("table");  
