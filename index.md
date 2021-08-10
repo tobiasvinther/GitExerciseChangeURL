@@ -15,16 +15,16 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 ||| [Introduktion til Teknologifaget og Commandline Interface](1.md)|
 ||| [Databaser](2.md)|
 ||| [Versionsstyrring (git)](3.md)|
-||| [Git workflows](4.md)|
-||| [Git history, readme filer og dokumentation af projektet](5.md)|
-||| [Git](6.md)|
+||| [Git 2](4.md)|
+||| [Git 3](5.md)|
+||| [Git 4](6.md)|
 ||| [Processer og Tråde](7.md)|
 ||| [Deployment med Github, Heroku og Dreamhost](8.md)|
 ||| [Deployment med Github, Heroku og Dreamhost](9.md)|
 ||| [Client / Server Arkitektur](10.md) |
 ||| [Miniprojekt](11.md)|
 ||| [Miniprojekt](12.md)|
-||| [Recap](13.md)|
+||| [Repetition og "Klar til eksamensprojektet"](13.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
