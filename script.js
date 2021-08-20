@@ -1,6 +1,6 @@
 $().ready(function() {
 	$(".page-header").attr('style', 'display:none')
-	$("h1:first").css("display", "none");
+	//$("h1:first").css("display", "none");
 	$("h1:first").html("Teknologi 1 - KEA efterår 2021 - Kompendie");
 	$(".page-header a:first").hide()
 	//$(".page-header").append("<div>Elective at KEA CS Fall 2021</div>")
