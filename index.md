@@ -1,7 +1,6 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="script.js"></script>
 
-# Teknologi 1, Kea efterår 2021
 <div style="text-align:right"><small>
 Undervisning: Dat21v2 onsdage 08:30 - 11:45 <br>    
 Undervisning: Dat21v1 fredage 12:30 - 15:45 <br>    
