@@ -1,7 +1,7 @@
 $().ready(function() {
 	$(".page-header").attr('style', 'display:none')
 	$("h1:first").css("display", "none");
-	//$("h1:first").html("./missing semester");
+	$("h1:first").html("Teknologi 1 - KEA efterår 2021 - Kompendie");
 	$(".page-header a:first").hide()
 	//$(".page-header").append("<div>Elective at KEA CS Fall 2021</div>")
 	$(".main-content").prepend("<div style='text-align: right'><a href='/e21/'><img src='img/home-5-24.png'></a>");
