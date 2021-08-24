@@ -15,7 +15,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 ||| [Databaser](2.md)|
 ||| [Versionsstyrring (git)](3.md)|
 ||| [Git branching, merge og merge conflicts](4.md)|
-||| [Git 3](5.md)|
+||| [Projektsamarbejde med git og github](5.md)|
 ||| [Obligatorisk opgave](6.md)|
 ||| [Processer og Tråde](7.md)|
 ||| [Deployment med Github, Heroku og Dreamhost](8.md)|
