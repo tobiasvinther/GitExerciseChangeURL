@@ -17,7 +17,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 ||| [Versionsstyrring (git)](3.md)|
 ||| [Git 2](4.md)|
 ||| [Git 3](5.md)|
-||| [Git 4](6.md)|
+||| [Obligatorisk opgave (git & github)](6.md)|
 ||| [Processer og Tråde](7.md)|
 ||| [Deployment med Github, Heroku og Dreamhost](8.md)|
 ||| [Deployment med Github, Heroku og Dreamhost](9.md)|
