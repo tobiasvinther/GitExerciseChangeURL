@@ -14,7 +14,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 ||| [Introduktion til Teknologifaget, OS og CLI ](1.md)|
 ||| [Databaser](2.md)|
 ||| [Versionsstyrring (git)](3.md)|
-||| [Git branching, merge og merge conflicts](4.md)|
+||| [Git branches, merge og merge conflicts](4.md)|
 ||| [Projektsamarbejde med git og github](5.md)|
 ||| [Obligatorisk opgave (git & github)](6.md)|
 ||| [Processer og Tråde](7.md)|
