@@ -11,7 +11,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 
 | Dat21v2 | Dat21v1 | Emne | 
 |:---|:---| --- |
-||| [Introduktion til Teknologifaget og Commandline Interface](1.md)|
+||| [Introduktion til Teknologifaget, OS og CLI ](1.md)|
 ||| [Databaser](2.md)|
 ||| [Versionsstyrring (git)](3.md)|
 ||| [Git 2](4.md)|
