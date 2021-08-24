@@ -30,7 +30,7 @@ Underviser: Claus Bove, clbo@kea.dk <br>
 
 <br><br>
 <div style='text-align:right'><i><small>* undervisning på Teams</small></i></div>
-<div style='text-align:right'><i><small>* ingen undervisning, starten på jeres eksamensprojekt</small></i></div>
+<div style='text-align:right'><i><small>** ingen undervisning, starten på jeres miniprojekt</small></i></div>
 
 <script>  
 var dates = [
