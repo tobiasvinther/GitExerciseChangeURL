@@ -1,3 +1,7 @@
+<!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="../../../script.js"></script>
+
 6. ls
 7. cp ex1.acc  myfile.acc
 8. cat ex1.acc (cat myfile.acc)
