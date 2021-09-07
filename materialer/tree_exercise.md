@@ -9,8 +9,17 @@ I denne tutorial skal i installere et lille program som i kan bruge gennem termi
 
 Slutresultatet (som i kan se herinder) bliver at i vil kunne se en træstruktureret oversigt over de mapper og filer i har på jeres computer (eller mere præcist i den mappe i er i).
 
-![](../img/tree.png)
-
+````
+	iclbo:brainstorm2021 clbo$ tree 
+	├── index.html
+	├── readme.md
+	├── ses1
+	│   ├── git.txt
+	│   └── readme.md
+	├── ses2
+	│   └── about.html
+	└── ses3
+````
 Sidste gang lærte i kommandoen ```` ls ```` for at se en liste af filer og mapper i den mappe i befinder jer i. ```` tree ```` gør det samme men printer det ud i en træstruktur. 
 
 ## Installation af ```` tree ````
@@ -30,7 +39,6 @@ Dernest skal i installere programmet ```` tree ````.
 
 ````
 	brew install tree
-
 ````
 Genstart jeres terminal.
 
