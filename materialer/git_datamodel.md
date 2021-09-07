@@ -99,3 +99,4 @@ type commit = struct {
 
 It's a clean, simple model of history.
 
+<div style="text-align:right;"><i><small>(https://missing.csail.mit.edu/2020/version-control/)</small></i></div>
