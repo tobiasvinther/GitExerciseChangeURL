@@ -2,8 +2,8 @@
 
 I denne øvelse skal i installere et lille program som i kan bruge gennem terminalen (Mac: Terminal, Win: Git Bash).
 
-Slut resultatet bliver at i vil kunne se en træstruktureret oversigt over de mapper og filer i har på jeres computer (eller i den mappe i er i).
+Slutresultatet bliver at i vil kunne se en træstruktureret oversigt over de mapper og filer i har på jeres computer (eller mere præcist i den mappe i er i).
 
 ![](img/tree.png)
 
-
+Sidste gang lærte i kommandoen ```` ls ```` for at se en liste af filer og mapper i den mappe i befinder jer i. ```` tree ```` gør det samme med printer det ud i en træstruktur. 
