@@ -1,4 +1,8 @@
-# tree commandline tool
+<!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="../../script.js"></script> 
+
+# The ```` tree ```` command line tool
 
 I denne øvelse skal i installere et lille program som i kan bruge gennem terminalen (Mac: Terminal, Win: Git Bash).
 
