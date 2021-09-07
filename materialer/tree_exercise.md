@@ -4,7 +4,7 @@
 
 # The ```` tree ```` command line tool
 
-I denne øvelse skal i installere et lille program som i kan bruge gennem terminalen (Mac: Terminal, Win: Git Bash).
+I denne tutorial skal i installere et lille program som i kan bruge gennem terminalen (Mac: Terminal, Win: Git Bash).
 
 Slutresultatet bliver at i vil kunne se en træstruktureret oversigt over de mapper og filer i har på jeres computer (eller mere præcist i den mappe i er i).
 
