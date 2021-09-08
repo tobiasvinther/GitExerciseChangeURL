@@ -73,7 +73,7 @@ Brug nu de kommandoer vi lige har været igennem.
 * Git add (for at tilføje filer til dit "staging area")
 * git Commit (for at lave et "snapshot")
 * git status
-* git log --all --graph --decorate
+* git log ---all ---graph ---decorate
 
 Og tegn en "commit graf" (O <-- O <-- O) med id´er og commit messages for dit projekt.
 
