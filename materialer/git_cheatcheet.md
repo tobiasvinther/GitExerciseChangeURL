@@ -1,5 +1,8 @@
-# GIT CHEAT SHEET
+<!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="../script.js"></script>
 
+# GIT CHEAT SHEET
 
 ## Basics
 - git help <command>: get help for a git command   
@@ -19,7 +22,7 @@
 	- same as git branch <name>; git checkout <name>
 - git merge <revision>: merges into current branch
 
-### Configuration
+## Configuration
 - .gitignore: file for specifying which files should not be included in commits
 	- [example (simple):](materialer/gitignore_simple.txt)
 	- [example (IntelliJ):](materialer/gitignore.txt)
