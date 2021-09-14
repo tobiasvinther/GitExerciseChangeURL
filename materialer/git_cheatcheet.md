@@ -21,7 +21,9 @@
 
 ### Configuration
 - .gitignore: file for specifying which files should not be included in commits
-	- [example:](materialer/gitignore.txt)
+	- [example (simple):](materialer/gitignore_simple.txt)
+	- [example (IntelliJ):](materialer/gitignore.txt)
+	
 
 
 ## Remotes (Github)
