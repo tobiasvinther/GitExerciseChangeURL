@@ -13,7 +13,7 @@
 - git log: shows a flattened log of history
 - git checkout <revision>: updates HEAD and current branch
 
-![](img/git_tavle.JPG)
+![](../img/git_tavle.JPG)
 
 ## Branching and merging
 - git branch: shows branches
