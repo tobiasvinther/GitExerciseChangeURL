@@ -26,11 +26,16 @@
 - .gitignore: file for specifying which files should not be included in commits
 	- [example (simple):](materialer/gitignore_simple.txt)
 	- [example (IntelliJ):](materialer/gitignore.txt)
-	
-
 
 ## Remotes (Github)
-__kommer senere__
+- git remote: list remotes
+- git remote -v: list push and fetch remote url
+- git push <remote> <local branch>:<remote branch>: send objects to remote, and update remote reference
+- git fetch: retrieve objects/references from a remote
+- git pull: same as git fetch; git merge
+- git clone: download repository from remote
+- git branch -r: list remote branches
+
 
 
 
