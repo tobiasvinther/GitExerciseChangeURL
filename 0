@@ -16,10 +16,6 @@
 * [Git Book (5 - 6)](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows)
 * [Git Cheatsheet](materialer/git_cheatcheet.md) (git kommandoer brugt i dag)
 
-#### Centralized Workflow
-![](img/centralized_workflow.png)
-
-
 ## Øvelser
 
 ### Clone teknologifagets materialerepository og dets branches
@@ -30,7 +26,7 @@ Lav en klon af dette fags githubrepository. Det er det der ligger bagved denne s
 
 ````
 Kig lidt rundt i filerne og dan dig et overblik. Læg mærke til hvordan de hænger sammen med https://techkea.github.io/e21/ siden.
+
 (5.md svarer feks. til denne side: https://techkea.github.io/e21/5.html)  
 
-### Chekout branches
-Find frem til hvor mange branches der er. Både locale og remote. 
+### 
