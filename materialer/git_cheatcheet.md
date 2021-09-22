@@ -31,6 +31,7 @@
 - git remote: list remotes
 - git remote -v: list push and fetch remote url
 - git remote set-url <remote> <url>: changes the online repository url
+- git remote add <remote> <url>: add a reference to the remote repository 
 - git push <remote> <local branch>:<remote branch>: send objects to remote, and update remote reference
 - git fetch: retrieve objects/references from a remote
 - git pull: same as git fetch; git merge
