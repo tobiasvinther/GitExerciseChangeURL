@@ -18,3 +18,4 @@ $().ready(function() {
 		$(".markdown-body").append("<div style='text-align:right'><i><small>&copy; clbo@kea.dk, Forår 2021</small></i></div>")	
 });
 
+
